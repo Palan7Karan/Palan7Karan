@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Palan7Karan
-- 👀 I’m interested in Development.
+- 👀 I’m just a beginner who likes to know how different websites and applications work and am learning to code to help contribute in big projects.
 - 🌱 I’m currently learning Web development bootcampt by Angela Yu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
